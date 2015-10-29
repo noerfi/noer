@@ -1,0 +1,7 @@
+halo
+Program Halo;
+User Crt;
+Begin 
+  ClrScr;
+  Writeln('Halo Word'); //untuk mengeluarkan string 'Halo Word' di layar
+End
